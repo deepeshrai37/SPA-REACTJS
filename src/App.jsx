@@ -7,18 +7,19 @@ import Partners from './components/Partners'
 import Reviews from './components/Reviews'
 import VideoGallery from './components/VideoGallery'
 import FAQ from './components/FAQ'
+import Footer from './components/Footer'
 
 function App() {
 
   return (
     <>
-      <NavBar/>
       <Intro/>
       <Services/>
       <Partners/>
       <Reviews/>
       <VideoGallery/>
       <FAQ/>
+      <Footer/>
     </>
   )
 }
