@@ -1,6 +1,5 @@
 import './../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
-import NavBar from './components/NavBar'
 import Intro from './components/Intro'
 import Services from './components/Services'
 import Partners from './components/Partners'
@@ -24,4 +23,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
